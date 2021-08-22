@@ -1,2 +1,2 @@
-# Resume
-Mantej Singh's Resume
+# CV
+Mantej Singh's CV
